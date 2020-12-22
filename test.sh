@@ -1,0 +1,1 @@
+g++ main.cpp glad.c gamesetup.h gamesetup.cpp shader.h shader.cpp texture.h texture.cpp resource_manager.h resource_manager.cpp stb_image.h sprite_renderer.h sprite_renderer.cpp game_object.h game_object.cpp game_level.h game_level.cpp -lglfw3dll
